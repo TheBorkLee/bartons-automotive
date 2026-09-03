@@ -10,6 +10,7 @@ A responsive, dependency-free website for Barton's Automotive's in-house and mob
 - `images/favicon.svg` — browser tab icon
 - `images/bartons-automotive-logo.png` — primary business logo
 - `robots.txt` and `sitemap.xml` — search-engine discovery files
+- `wrangler.jsonc` — tells Cloudflare Workers to publish the repository as a static website
 
 ## Preview locally
 
